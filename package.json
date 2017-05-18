@@ -1,0 +1,23 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "according to the homework description: basically a dating app",
+  "main": "friends.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaySeeCode/FriendFinder.git"
+  },
+  "author": "Jc Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaySeeCode/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/JaySeeCode/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
